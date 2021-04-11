@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Political Preparedness</string>
+    <string name="up_coming_elections">Up coming elections</string>
+    <string name="find_my_representatives">Find my representatives</string>
+    <string name="upcoming_elections">Upcoming Elections</string>
+    <string name="saved_elections">Saved Elections</string>
+    <string name="follow_election">Follow Election</string>
+    <string name="unfollow_election">Unfollow Election</string>
+    <string name="election_info">Election Information</string>
+    <string name="voting_location">Voting Location Information</string>
+    <string name="ballot_location">Ballot Location Information</string>
+    <string name="correspondence_address">Correspondence Address</string>
+    <string name="street_address">streetAddress</string>
+    <string name="line_1">Address line 1</string>
+    <string name="line_2">Address line 2</string>
+    <string name="use_my_location">Use my location</string>
+    <string name="city">City</string>
+    <string name="zip">Zip</string>
+    <string name="state">State</string>
+    <string name="representative_search">Representative Search</string>
+    <string name="my_representatives">My Representatives</string>
+    <string name="representative_photo">representative photo</string>
+    <string name="browse_link">browser link</string>
+    <string name="facebook_link">facebook link</string>
+    <string name="twitter_link">twitter link</string>
+    <string name="permission_denied_explanation">You need to accept location permission to find representatives by location</string>
+    <string name="default_address">Address</string>
+    <string name="no_internet_connecton">No internet connection</string>
+
+</resources>
